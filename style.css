@@ -24,6 +24,7 @@
 /* banner */
 header,.primary-bg{
     background-color: #E554731A;
+    height: 100vh;
 }
 .banner-container{
     padding: 30px 30px 0px 150px;
@@ -31,7 +32,7 @@ header,.primary-bg{
     justify-content: space-around;
     align-items: center;
     flex-direction: row-reverse;
-    height: 100vh;
+    
 }
 .banner-text{
     max-width: 1200px;
