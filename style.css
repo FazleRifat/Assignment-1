@@ -109,6 +109,7 @@ header,.primary-bg{
     border: none;
     background-color: #2727270D;
     padding: 50px;
+    margin-left: 50px;
 }
 /* hot deal */
 .hot-container{
