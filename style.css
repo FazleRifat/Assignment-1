@@ -69,7 +69,7 @@ header,.primary-bg{
     display: flex;
     align-items: center;
     gap:30px;
-    /* margin-left: 150px; */
+    margin-left: 25px;
 }
 .feature-img{
     box-shadow: 10px 10px 0px none;
