@@ -74,7 +74,8 @@ header,.primary-bg{
     display: flex;
     align-items: center;
     gap:30px;
-    margin-left: 50px;
+    margin-left: 60px;
+    margin-right: 60px;
 }
 .feature-img{
     box-shadow: 10px 10px 0px none;
@@ -160,7 +161,8 @@ header,.primary-bg{
     display: flex;
     align-items: center;
     gap:30px;
-    margin-left: 120px;
+    margin-left: 140px;
+
 }
 .social-img{
     width: 200px;;
@@ -172,7 +174,7 @@ header,.primary-bg{
     background-repeat: no-repeat;
     background-size: cover;
     padding: 50px;
-    margin-left: 200px;
+    margin-left: 160px;
 }
 .box-container{
     margin: auto;
