@@ -155,3 +155,41 @@ header,.primary-bg{
 .social-img{
     width: 200px;;
 }
+/* box */
+.box{
+    background-image: url("./Flower Asset/Rectangle\ 9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px;
+    margin-left: 200px;
+}
+.box-container{
+    margin: auto;
+    padding: 10px;
+}
+.box-form{
+    display: flex;
+    align-content: center;
+    margin-left: 200px;
+    margin-top: 30px;
+
+}
+.box-title{
+    color: #272727;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+.box-description{
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+.box-form input[type=text]{
+    border-radius: 5px;
+    background: #FFF;
+    border: none;
+    padding: 15px 100px;
+    margin-right: 5px;
+}
