@@ -74,7 +74,7 @@ header,.primary-bg{
     display: flex;
     align-items: center;
     gap:30px;
-    margin-left: 180px;
+    margin-left: 160px;
     margin-right: 60px;
 }
 .feature-img{
@@ -196,7 +196,7 @@ header,.primary-bg{
     display: flex;
     align-items: center;
     gap:30px;
-    margin-left: 80px;
+    margin-left: 60px;
     margin-right: 80px;
 
 }
