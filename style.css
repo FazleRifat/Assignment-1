@@ -74,13 +74,13 @@ header,.primary-bg{
     display: flex;
     align-items: center;
     gap:30px;
-    margin-left: 160px;
+    margin-left: 30px;
     margin-right: 60px;
 }
 .feature-img{
     box-shadow: 10px 10px 0px none;
     border-radius: 300px 300px 0px 0px;
-    width: 314px;
+    width: 310px;
     height: 338px;
 
 }
@@ -196,12 +196,12 @@ header,.primary-bg{
     display: flex;
     align-items: center;
     gap:30px;
-    margin-left: 60px;
-    margin-right: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
 
 }
 .social-img{
-    width: 270px;;
+    width: 230px;;
 }
 /* box */
 .box{
@@ -210,7 +210,8 @@ header,.primary-bg{
     background-repeat: no-repeat;
     background-size: cover;
     padding: 50px;
-    margin-left: 160px;
+    margin-left: 80px;
+    margin-right: 80px;
 }
 .box-container{
     margin-left: 60px;
