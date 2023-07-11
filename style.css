@@ -22,7 +22,7 @@
     margin:150px;
 }
 /* banner */
-header{
+header,.primary-bg{
     background-color: #E554731A;
 }
 .banner-container{
@@ -104,4 +104,29 @@ header{
     border: none;
     background-color: #2727270D;
     padding: 50px;
+}
+/* hot deal */
+.hot-container{
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.hot-text{
+    max-width: 1000px;
+}
+.hot-title{
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 35px;
+    margin-top: 5px;
+    color: #272727;
+}
+.hot-description{
+    margin-top: 0;
+    margin-bottom: 35px;
+}
+.hot-img{
+    width: 300px;
 }
