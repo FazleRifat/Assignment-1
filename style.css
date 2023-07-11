@@ -130,6 +130,9 @@ header,.primary-bg{
 .hot-img{
     width: 300px;
 }
+.off{
+    color: #E55473;
+}
 /* social */
 .social-text{
     margin: 10px;
@@ -193,3 +196,33 @@ header,.primary-bg{
     padding: 15px 100px;
     margin-right: 5px;
 }
+/* footer */
+footer{
+    background-color: black;
+    color:white;
+    margin-bottom: 0;
+    padding: 60px;
+    height: 160px;
+}
+.footer-container{
+    margin: 10px;
+    padding: 10px;
+}
+.footer-title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 24px;
+
+}
+.footer-description{
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+.footer-cr{
+    color: #FFFFFF66;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+                                /*DONE BY FAZLE RIFAT*/
