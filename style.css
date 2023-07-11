@@ -110,7 +110,8 @@ header,.primary-bg{
     border: none;
     background-color: #2727270D;
     padding: 50px;
-    margin-left: 50px;
+    margin-left: 80px;
+    margin-right: 50px;
 }
 /* hot deal */
 .hot-container{
@@ -161,7 +162,8 @@ header,.primary-bg{
     display: flex;
     align-items: center;
     gap:30px;
-    margin-left: 140px;
+    margin-left: 80px;
+    margin-right: 80px;
 
 }
 .social-img{
@@ -177,7 +179,8 @@ header,.primary-bg{
     margin-left: 160px;
 }
 .box-container{
-    margin: auto;
+    margin-left: 60px;
+    margin-left: 60px;
     padding: 10px;
 }
 .box-form{
